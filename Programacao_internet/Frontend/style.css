@@ -1,0 +1,13 @@
+.paragrafo{
+    color: saddlebrown;
+    font-size: 16px;
+}
+/*Este é o css externo, o ultimo em prioridade, se voce colocar inline ou o externo 
+vai passar por cima do que foi colocado aqui */
+
+/*Começãndo com bootstrap*/
+.destaque{
+    margin-top: 30px;
+    text-align: center;
+    color: gray;
+}
