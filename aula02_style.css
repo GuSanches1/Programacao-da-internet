@@ -1,0 +1,13 @@
+.corLinha{
+    height: 1px;
+    background-color: red;
+}
+.janelaCopy{
+    background-color: lightgray;
+    height: 30px;
+    padding-top: 8px;
+    border: 2px solid black;
+    border-radius: 20px ;
+    width: 300px;
+    margin: auto;
+}
